@@ -1,0 +1,15 @@
+D:\Git\C#_dz\Task_1\obj\Debug\net7.0\Task_1.csproj.AssemblyReference.cache
+D:\Git\C#_dz\Task_1\obj\Debug\net7.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C#_dz\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfoInputs.cache
+D:\Git\C#_dz\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfo.cs
+D:\Git\C#_dz\Task_1\obj\Debug\net7.0\Task_1.csproj.CoreCompileInputs.cache
+D:\Git\C#_dz\Task_1\bin\Debug\net7.0\Task_1.exe
+D:\Git\C#_dz\Task_1\bin\Debug\net7.0\Task_1.deps.json
+D:\Git\C#_dz\Task_1\bin\Debug\net7.0\Task_1.runtimeconfig.json
+D:\Git\C#_dz\Task_1\bin\Debug\net7.0\Task_1.dll
+D:\Git\C#_dz\Task_1\bin\Debug\net7.0\Task_1.pdb
+D:\Git\C#_dz\Task_1\obj\Debug\net7.0\Task_1.dll
+D:\Git\C#_dz\Task_1\obj\Debug\net7.0\refint\Task_1.dll
+D:\Git\C#_dz\Task_1\obj\Debug\net7.0\Task_1.pdb
+D:\Git\C#_dz\Task_1\obj\Debug\net7.0\Task_1.genruntimeconfig.cache
+D:\Git\C#_dz\Task_1\obj\Debug\net7.0\ref\Task_1.dll
