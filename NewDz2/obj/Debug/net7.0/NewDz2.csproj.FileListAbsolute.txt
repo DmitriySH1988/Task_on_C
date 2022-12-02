@@ -1,0 +1,15 @@
+D:\Git\C#_dz\NewDz2\bin\Debug\net7.0\NewDz2.exe
+D:\Git\C#_dz\NewDz2\bin\Debug\net7.0\NewDz2.deps.json
+D:\Git\C#_dz\NewDz2\bin\Debug\net7.0\NewDz2.runtimeconfig.json
+D:\Git\C#_dz\NewDz2\bin\Debug\net7.0\NewDz2.dll
+D:\Git\C#_dz\NewDz2\bin\Debug\net7.0\NewDz2.pdb
+D:\Git\C#_dz\NewDz2\obj\Debug\net7.0\NewDz2.csproj.AssemblyReference.cache
+D:\Git\C#_dz\NewDz2\obj\Debug\net7.0\NewDz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C#_dz\NewDz2\obj\Debug\net7.0\NewDz2.AssemblyInfoInputs.cache
+D:\Git\C#_dz\NewDz2\obj\Debug\net7.0\NewDz2.AssemblyInfo.cs
+D:\Git\C#_dz\NewDz2\obj\Debug\net7.0\NewDz2.csproj.CoreCompileInputs.cache
+D:\Git\C#_dz\NewDz2\obj\Debug\net7.0\NewDz2.dll
+D:\Git\C#_dz\NewDz2\obj\Debug\net7.0\refint\NewDz2.dll
+D:\Git\C#_dz\NewDz2\obj\Debug\net7.0\NewDz2.pdb
+D:\Git\C#_dz\NewDz2\obj\Debug\net7.0\NewDz2.genruntimeconfig.cache
+D:\Git\C#_dz\NewDz2\obj\Debug\net7.0\ref\NewDz2.dll
