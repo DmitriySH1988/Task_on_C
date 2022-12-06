@@ -1,0 +1,15 @@
+D:\Git\C#_dz\NewTask2\bin\Debug\net7.0\NewTask2.exe
+D:\Git\C#_dz\NewTask2\bin\Debug\net7.0\NewTask2.deps.json
+D:\Git\C#_dz\NewTask2\bin\Debug\net7.0\NewTask2.runtimeconfig.json
+D:\Git\C#_dz\NewTask2\bin\Debug\net7.0\NewTask2.dll
+D:\Git\C#_dz\NewTask2\bin\Debug\net7.0\NewTask2.pdb
+D:\Git\C#_dz\NewTask2\obj\Debug\net7.0\NewTask2.csproj.AssemblyReference.cache
+D:\Git\C#_dz\NewTask2\obj\Debug\net7.0\NewTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C#_dz\NewTask2\obj\Debug\net7.0\NewTask2.AssemblyInfoInputs.cache
+D:\Git\C#_dz\NewTask2\obj\Debug\net7.0\NewTask2.AssemblyInfo.cs
+D:\Git\C#_dz\NewTask2\obj\Debug\net7.0\NewTask2.csproj.CoreCompileInputs.cache
+D:\Git\C#_dz\NewTask2\obj\Debug\net7.0\NewTask2.dll
+D:\Git\C#_dz\NewTask2\obj\Debug\net7.0\refint\NewTask2.dll
+D:\Git\C#_dz\NewTask2\obj\Debug\net7.0\NewTask2.pdb
+D:\Git\C#_dz\NewTask2\obj\Debug\net7.0\NewTask2.genruntimeconfig.cache
+D:\Git\C#_dz\NewTask2\obj\Debug\net7.0\ref\NewTask2.dll

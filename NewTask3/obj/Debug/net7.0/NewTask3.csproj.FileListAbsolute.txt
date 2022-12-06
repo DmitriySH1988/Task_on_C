@@ -1,0 +1,15 @@
+D:\Git\C#_dz\NewTask3\obj\Debug\net7.0\NewTask3.csproj.AssemblyReference.cache
+D:\Git\C#_dz\NewTask3\obj\Debug\net7.0\NewTask3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C#_dz\NewTask3\obj\Debug\net7.0\NewTask3.AssemblyInfoInputs.cache
+D:\Git\C#_dz\NewTask3\obj\Debug\net7.0\NewTask3.AssemblyInfo.cs
+D:\Git\C#_dz\NewTask3\obj\Debug\net7.0\NewTask3.csproj.CoreCompileInputs.cache
+D:\Git\C#_dz\NewTask3\bin\Debug\net7.0\NewTask3.exe
+D:\Git\C#_dz\NewTask3\bin\Debug\net7.0\NewTask3.deps.json
+D:\Git\C#_dz\NewTask3\bin\Debug\net7.0\NewTask3.runtimeconfig.json
+D:\Git\C#_dz\NewTask3\bin\Debug\net7.0\NewTask3.dll
+D:\Git\C#_dz\NewTask3\bin\Debug\net7.0\NewTask3.pdb
+D:\Git\C#_dz\NewTask3\obj\Debug\net7.0\NewTask3.dll
+D:\Git\C#_dz\NewTask3\obj\Debug\net7.0\refint\NewTask3.dll
+D:\Git\C#_dz\NewTask3\obj\Debug\net7.0\NewTask3.pdb
+D:\Git\C#_dz\NewTask3\obj\Debug\net7.0\NewTask3.genruntimeconfig.cache
+D:\Git\C#_dz\NewTask3\obj\Debug\net7.0\ref\NewTask3.dll
