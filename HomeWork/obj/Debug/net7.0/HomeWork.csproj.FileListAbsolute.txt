@@ -1,0 +1,15 @@
+D:\Git\C#_dz\HomeWork\obj\Debug\net7.0\HomeWork.csproj.AssemblyReference.cache
+D:\Git\C#_dz\HomeWork\obj\Debug\net7.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C#_dz\HomeWork\obj\Debug\net7.0\HomeWork.AssemblyInfoInputs.cache
+D:\Git\C#_dz\HomeWork\obj\Debug\net7.0\HomeWork.AssemblyInfo.cs
+D:\Git\C#_dz\HomeWork\obj\Debug\net7.0\HomeWork.csproj.CoreCompileInputs.cache
+D:\Git\C#_dz\HomeWork\bin\Debug\net7.0\HomeWork.exe
+D:\Git\C#_dz\HomeWork\bin\Debug\net7.0\HomeWork.deps.json
+D:\Git\C#_dz\HomeWork\bin\Debug\net7.0\HomeWork.runtimeconfig.json
+D:\Git\C#_dz\HomeWork\bin\Debug\net7.0\HomeWork.dll
+D:\Git\C#_dz\HomeWork\bin\Debug\net7.0\HomeWork.pdb
+D:\Git\C#_dz\HomeWork\obj\Debug\net7.0\HomeWork.dll
+D:\Git\C#_dz\HomeWork\obj\Debug\net7.0\refint\HomeWork.dll
+D:\Git\C#_dz\HomeWork\obj\Debug\net7.0\HomeWork.pdb
+D:\Git\C#_dz\HomeWork\obj\Debug\net7.0\HomeWork.genruntimeconfig.cache
+D:\Git\C#_dz\HomeWork\obj\Debug\net7.0\ref\HomeWork.dll
