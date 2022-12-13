@@ -1,0 +1,15 @@
+D:\Git\C#_dz\NewHomeTask3\bin\Debug\net7.0\NewHomeTask3.exe
+D:\Git\C#_dz\NewHomeTask3\bin\Debug\net7.0\NewHomeTask3.deps.json
+D:\Git\C#_dz\NewHomeTask3\bin\Debug\net7.0\NewHomeTask3.runtimeconfig.json
+D:\Git\C#_dz\NewHomeTask3\bin\Debug\net7.0\NewHomeTask3.dll
+D:\Git\C#_dz\NewHomeTask3\bin\Debug\net7.0\NewHomeTask3.pdb
+D:\Git\C#_dz\NewHomeTask3\obj\Debug\net7.0\NewHomeTask3.csproj.AssemblyReference.cache
+D:\Git\C#_dz\NewHomeTask3\obj\Debug\net7.0\NewHomeTask3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C#_dz\NewHomeTask3\obj\Debug\net7.0\NewHomeTask3.AssemblyInfoInputs.cache
+D:\Git\C#_dz\NewHomeTask3\obj\Debug\net7.0\NewHomeTask3.AssemblyInfo.cs
+D:\Git\C#_dz\NewHomeTask3\obj\Debug\net7.0\NewHomeTask3.csproj.CoreCompileInputs.cache
+D:\Git\C#_dz\NewHomeTask3\obj\Debug\net7.0\NewHomeTask3.dll
+D:\Git\C#_dz\NewHomeTask3\obj\Debug\net7.0\refint\NewHomeTask3.dll
+D:\Git\C#_dz\NewHomeTask3\obj\Debug\net7.0\NewHomeTask3.pdb
+D:\Git\C#_dz\NewHomeTask3\obj\Debug\net7.0\NewHomeTask3.genruntimeconfig.cache
+D:\Git\C#_dz\NewHomeTask3\obj\Debug\net7.0\ref\NewHomeTask3.dll
