@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RRjEzLjDm+IQkgsPkxSiumTgvtPi27P/rEawnwQVCJjHlcIirOhZIXsqJ1xv2T7RFQ41/q4qXkGzhBYAltzNzw==",
+  "dgSpecHash": "aiSyVejfoB7vGaSET3f5fEEQO8UUsGGyUdXwturUuIkC6smc7j1vn7BPI1D9q6Ah1ivgzd6AKJJtHuEfzLnw4Q==",
   "success": true,
   "projectFilePath": "D:\\Git\\C#_dz\\Task_4\\Task_4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.1\\microsoft.windowsdesktop.app.ref.7.0.1.nupkg.sha512",
+    "C:\\Users\\Dimon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.1\\microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
