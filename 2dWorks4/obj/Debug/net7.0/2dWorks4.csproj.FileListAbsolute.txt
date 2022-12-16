@@ -1,0 +1,15 @@
+D:\Git\C#_dz\2dWorks4\bin\Debug\net7.0\2dWorks4.exe
+D:\Git\C#_dz\2dWorks4\bin\Debug\net7.0\2dWorks4.deps.json
+D:\Git\C#_dz\2dWorks4\bin\Debug\net7.0\2dWorks4.runtimeconfig.json
+D:\Git\C#_dz\2dWorks4\bin\Debug\net7.0\2dWorks4.dll
+D:\Git\C#_dz\2dWorks4\bin\Debug\net7.0\2dWorks4.pdb
+D:\Git\C#_dz\2dWorks4\obj\Debug\net7.0\2dWorks4.csproj.AssemblyReference.cache
+D:\Git\C#_dz\2dWorks4\obj\Debug\net7.0\2dWorks4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C#_dz\2dWorks4\obj\Debug\net7.0\2dWorks4.AssemblyInfoInputs.cache
+D:\Git\C#_dz\2dWorks4\obj\Debug\net7.0\2dWorks4.AssemblyInfo.cs
+D:\Git\C#_dz\2dWorks4\obj\Debug\net7.0\2dWorks4.csproj.CoreCompileInputs.cache
+D:\Git\C#_dz\2dWorks4\obj\Debug\net7.0\2dWorks4.dll
+D:\Git\C#_dz\2dWorks4\obj\Debug\net7.0\refint\2dWorks4.dll
+D:\Git\C#_dz\2dWorks4\obj\Debug\net7.0\2dWorks4.pdb
+D:\Git\C#_dz\2dWorks4\obj\Debug\net7.0\2dWorks4.genruntimeconfig.cache
+D:\Git\C#_dz\2dWorks4\obj\Debug\net7.0\ref\2dWorks4.dll
