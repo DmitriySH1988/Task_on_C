@@ -1,0 +1,15 @@
+D:\Git\C#_dz\FinalTask\bin\Debug\net7.0\FinalTask.exe
+D:\Git\C#_dz\FinalTask\bin\Debug\net7.0\FinalTask.deps.json
+D:\Git\C#_dz\FinalTask\bin\Debug\net7.0\FinalTask.runtimeconfig.json
+D:\Git\C#_dz\FinalTask\bin\Debug\net7.0\FinalTask.dll
+D:\Git\C#_dz\FinalTask\bin\Debug\net7.0\FinalTask.pdb
+D:\Git\C#_dz\FinalTask\obj\Debug\net7.0\FinalTask.csproj.AssemblyReference.cache
+D:\Git\C#_dz\FinalTask\obj\Debug\net7.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C#_dz\FinalTask\obj\Debug\net7.0\FinalTask.AssemblyInfoInputs.cache
+D:\Git\C#_dz\FinalTask\obj\Debug\net7.0\FinalTask.AssemblyInfo.cs
+D:\Git\C#_dz\FinalTask\obj\Debug\net7.0\FinalTask.csproj.CoreCompileInputs.cache
+D:\Git\C#_dz\FinalTask\obj\Debug\net7.0\FinalTask.dll
+D:\Git\C#_dz\FinalTask\obj\Debug\net7.0\refint\FinalTask.dll
+D:\Git\C#_dz\FinalTask\obj\Debug\net7.0\FinalTask.pdb
+D:\Git\C#_dz\FinalTask\obj\Debug\net7.0\FinalTask.genruntimeconfig.cache
+D:\Git\C#_dz\FinalTask\obj\Debug\net7.0\ref\FinalTask.dll
